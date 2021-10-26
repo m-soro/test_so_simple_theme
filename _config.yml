@@ -1,4 +1,4 @@
-remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme@3.2.0
 title: This is the tittle from _config.yml
 description: Mark Soro projects, codes and modules for Programming for Data Science with Python from Udacity. Learn Numpy and Pandas and advance SQL.
 baseurl: 
